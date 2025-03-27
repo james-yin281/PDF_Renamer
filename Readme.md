@@ -28,6 +28,7 @@ PDF Renamer is a tool designed to rename PDF files based on their metadata. It u
 ```bash
 git clone <repository-url>
 cd PDF_Renamer
+
 2. Install the required Python packages:
 ```bash
 pip install -r requirements.txt
